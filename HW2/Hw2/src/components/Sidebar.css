@@ -1,0 +1,27 @@
+.sidebar {
+    width: 200px;
+    background-color: #3d3d3d;
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    top: 148px;
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+    z-index: 50;
+}
+
+.search {
+    width: calc(100% - 10px);
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.filter {
+    margin-bottom: 10px;
+}
+
+.categoryopen {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+}

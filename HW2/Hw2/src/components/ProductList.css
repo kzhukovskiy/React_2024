@@ -1,0 +1,8 @@
+.product-list {
+    margin-left: 220px;
+    top: 148px;
+    padding: 20px;
+    position: fixed;
+    max-height: 100%;
+    overflow-y: scroll;
+}

@@ -1,0 +1,14 @@
+.navigationBar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #3d3d3d;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.navigationBarItem {
+    cursor: pointer;
+}
