@@ -22,11 +22,9 @@
     position: relative;
 }
 
-.modal-content img {
+.modal img {
     max-width: 40%;
     height: auto;
-    display: grid;
-    place-items: center;
 }
 
 .modal-onclose {
